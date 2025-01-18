@@ -1,0 +1,25 @@
+# Ignore Power BI Desktop files
+*.pbix
+
+# Ignore temporary files
+*.tmp
+
+# Ignore local cache files
+*.cache
+
+# Ignore user-specific settings
+*.rsuser
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore Visual Studio temporary files
+*.suo
+*.user
+.vs/
+
+# Ignore other common ignored files
+*.log
+*.bak
+*.tmp
